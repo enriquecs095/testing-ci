@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - staging
+      - develop
 
 jobs:
   build_and_push:
